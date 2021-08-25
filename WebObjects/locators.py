@@ -1,0 +1,11 @@
+edit_Search_Github = "//input[@data-test-selector='nav-search-input']"
+txt_Repositories = "//a[@class='menu-item selected' and text()='Repositories']"
+link_Advanced_Search = "//a[text()='Advanced search']"
+select_Language_filter = "id:search_language"
+edit_Stars_filter = "id:search_stars"
+edit_Followers_filter = "id:search_followers"
+select_License_filter = "id:search_license"
+btn_Search = "//button[@type='submit']"
+
+list_Repo_Search_Result = "//ul[@class='repo-list']"
+div_Readme_content = "//div[@data-target='readme-toc.content']"
